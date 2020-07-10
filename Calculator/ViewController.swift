@@ -6,6 +6,8 @@
 //  Copyright © 2019 London App Brewery. All rights reserved.
 //
 
+//Kevin Newbury
+
 import UIKit
 
 class ViewController: UIViewController {
